@@ -3,9 +3,7 @@ Adds the following useful admin commands, for managing bank accounts, to the gam
 
 `/damngabe [Amount = 1000]` Does exactly the opposite of what the `/gabe` (old: `/steamsale`) command does.
 
-`/santa BankAccount, Currency [, Amount = 1000]` Transfers the specified amount (default 1000) to each player from the specified account in the specified currency.
-
-If the account does not have enough funds, the existing balance will be divided among all players.
+`/santa BankAccount, Currency [, Amount = 1000]` Transfers the specified amount (default 1000) to each player from the specified account in the specified currency. If the account does not have enough funds, the existing balance will be divided among all players.
 
 `/ubi Currency [, Amount = 1000]` Gives the specified amount (default 1000) to each player in the specified currency.
 
