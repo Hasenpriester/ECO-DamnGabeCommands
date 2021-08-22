@@ -14,6 +14,5 @@ If the account does not have enough funds, the existing balance will be divided 
 
 
 ## Installation
-
-Create a folder "DamnGabeCommands" under Mods and copy the DamnGabeCommands.cs in there.
+Just put the File DamnGabeCommands.cs in the Folder /Mods/UserCode/ Thats it, restart Server.
 Thats it, restart Server.
